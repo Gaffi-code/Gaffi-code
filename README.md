@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, Please check my stats. 👋
 
+
+I'm a Developer at @Gooogle and I love workshops! 
 <!--
 **Gaffi-code/Gaffi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
